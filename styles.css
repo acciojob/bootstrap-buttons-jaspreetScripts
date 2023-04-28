@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+#button-1{
+	color:white;
+	background-color:blue;
+}
+#button-2{
+	background-color:white;
+	color:black;
+}
+#button-3{
+	background-color:green;
+	color:white;
+}
+#button-4{
+	background-color:red;
+	color:white;
+	height:30px;
+	padding:2px;
+}
+#button-5{
+	background-color:camel;
+	width:100%;
+}
+#button-6{
+	background-color:skyblue;
+}
